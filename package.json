@@ -36,7 +36,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-modern-business.git"
     },
     "dependencies": {
-        "bootstrap": "5.2.3"
+        "@popperjs/core": "2.11.8",
+        "bootstrap": "5.3.2"
     },
     "devDependencies": {
         "autoprefixer": "10.4.16",
